@@ -1,0 +1,31 @@
+.Navigation  {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  background-color:  #dddddd;
+}
+
+h1 {
+  color: #D55C5F;
+}
+
+#pageHeader {
+  background-color: #4A90E2;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  width: 800px;
+  box-sizing: border-box;
+  margin: 20px auto; /* Vertical  Horizontal */
+}
+
+ul {
+  list-style-type: circle;
+}
+
+body {
+  color: #414141;               /* Dark gray */
+  background-color: #EEEEEE;    /* Light gray */
+  font-size: 18px;
+}
